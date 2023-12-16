@@ -73,6 +73,6 @@ while True:
 if player1_score == player2_score:
   print("There is no winner, tie.")
 elif player1_score > player2_score:
-  print("Player 1 won with score", player1_score, ":", player2_score)
+  print("Player 1 wins with score", player1_score, ":", player2_score)
 elif player1_score < player2_score:
-  print("Player 2 won with score", player1_score, ":", player2_score)
+  print("Player 2 wins with score", player1_score, ":", player2_score)
